@@ -1,0 +1,3 @@
+[submodule "Realtime-Simple-Chat-App"]
+	path = Realtime-Simple-Chat-App
+	url = https://github.com/WebDevSimplified/Realtime-Simple-Chat-App.git
